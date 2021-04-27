@@ -7,6 +7,7 @@
    [default default default italic underline success warning error])
  '(custom-safe-themes
    '("a3b6a3708c6692674196266aad1cb19188a6da7b4f961e1369a68f06577afa16" "76bfa9318742342233d8b0b42e824130b3a50dcc732866ff8e47366aed69de11" "aaa4c36ce00e572784d424554dcc9641c82d1155370770e231e10c649b59a074" "990e24b406787568c592db2b853aa65ecc2dcd08146c0d22293259d400174e37" default))
+ '(enable-local-variables :safe)
  '(fci-rule-color "#37474F")
  '(jdee-db-active-breakpoint-face-colors (cons "#171F24" "#237AD3"))
  '(jdee-db-requested-breakpoint-face-colors (cons "#171F24" "#579C4C"))
